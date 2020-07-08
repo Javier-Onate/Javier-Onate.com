@@ -7279,3 +7279,11 @@ a.credit {
 .section {
   padding-bottom: 0;
 }
+
+/* Ajouts */
+@media (max-width: 767px) {
+  #replique-baldur {
+    letter-spacing: 0px;
+    font-size: 10px;
+  }
+}
